@@ -1,0 +1,15 @@
+[
+   {
+      "id":1,
+      "type":"Text"
+
+   },
+   {
+      "id":2,
+      "type":"Numbers"
+   },
+   {
+      "id":3,
+      "type":"Date"
+   }
+]
